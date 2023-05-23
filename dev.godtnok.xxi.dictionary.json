@@ -1,0 +1,26 @@
+[{
+    "home": {
+        "en-US": {
+            "menuItem1": "Kitchen",
+            "menuItem2": "Housekeeping",
+            "menuItem3": "Weekly overview"
+        },
+        "sv-SE": {
+            "menuItem1": "Kök",
+            "menuItem2": "Hotellstädning",
+            "menuItem3": "Veckoöversikt"
+        },
+        "nb-NO": {
+            "menuItem1": "Kjøkken",
+            "menuItem2": "Renhold",
+            "menuItem3": "Ukesoversikt"
+        },
+        "nn-NO": {
+            "menuItem1": "Kjøkken",
+            "menuItem2": "Reinhald",
+            "menuItem3": "Ukesoversikt"
+        }
+    }
+}]
+    
+    

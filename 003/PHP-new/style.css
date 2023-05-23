@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'lt-flode-neue-heavy';
+  src: url('/path-to/lt-flode-neue-heavy.woff2') format('woff2'),
+       url('/path-to/lt-flode-neue-heavy.woff') format('woff'),
+       url('/path-to/lt-flode-neue-heavy.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'lt-flode-neue-heavy', sans-serif;
+}
